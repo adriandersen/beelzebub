@@ -10,4 +10,3 @@ core:
   prometheus:
     path: "/metrics"
     port: ":2112"
-
